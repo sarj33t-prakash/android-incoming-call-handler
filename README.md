@@ -1,4 +1,4 @@
-** Fork of: **
+**Fork of:**
 https://github.com/merail/android-incoming-call-handler
 
 This Android app demonstrates examples of usage:
